@@ -3,7 +3,7 @@
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 ## Watch video here
-UDATED LINK HERE 
+https://youtu.be/LvDhnIOE5Yw
 
 ## Description
 This project is a command-line application that allows the user to add, view, and update employee related information such as department, role, and salary using node, inquirer, and a MySQL database. 
