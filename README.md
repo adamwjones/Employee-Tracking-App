@@ -47,10 +47,14 @@ Pease refer to their site for more details of the terms of use permittable.
 
 <img src="public/images/mySqlAppPic1.png" width="700px">
 
-* UI of note taking screen  
+* Inquirer code and command line prompts   
 
-<img src="public/images/TBD2" width="700px">
+<img src="public/images/mySqlAppPic2.png" width="700px">
 
-* UI of saving a note 
+* Ideation sketch on how the query funtionality would work 
 
-<img src="public/images/TBD2" width="700px">
+<img src="public/images/mySqlAppPic4.png" width="700px">
+
+* Result of the “View All Employees” query function 
+
+<img src="public/images/mySqlAppPic3.png" width="700px">
